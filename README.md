@@ -68,4 +68,7 @@ The designs were created to the following widths:
 
 - Family: ['Fraunces', serif](https://fonts.google.com/specimen/Fraunces)
 - Weights: 600, 400, 
+### Link
 
+- 
+- Live Site URL: https://asazney.github.io/Product-Preview-Card-Component/
